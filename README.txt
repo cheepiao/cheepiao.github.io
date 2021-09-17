@@ -1,13 +1,13 @@
 
 TITLE: 
-Multipurpose - 100% Fully Responsive Multipurpose Website Template
+Photo - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by GetTemplates.co
 
-Website: https://freehtml5.co/
-Twitter: https://twitter.com/fh5co
-Facebook: https://facebook.com/fh5co
+Website: http://gettemplates.co/
+Twitter: http://twitter.com/gettemplatesco
+Facebook: http://facebook.com/gettemplatesco
 
 
 CREDITS:
@@ -15,29 +15,38 @@ CREDITS:
 Bootstrap
 http://getbootstrap.com/
 
-Google Fonts
-https://www.google.com/fonts/
-
 jQuery
 http://jquery.com/
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-Loaders
-https://connoratherton.com/loaders
+Modernizr
+http://modernizr.com/
 
-AOS
-https://michalsnik.github.io/aos/
+Google Fonts
+https://www.google.com/fonts/
 
-Swiper
-http://www.idangero.us/swiper/
+Icomoon
+https://icomoon.io/app/
 
-lightgallery
-http://sachinchoolur.github.io/lightGallery/
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
 
 Demo Images:
-https://unsplash.com
-https://pexels.com
-https://lorempixel.com
+http://unsplash.com
 
+TweenLite, CSSPlugin, EasePack
+http://greensock.com/
+
+imagesloaded, isotope
+http://desandro.com
